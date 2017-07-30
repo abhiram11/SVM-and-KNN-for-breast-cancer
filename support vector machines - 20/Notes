@@ -1,0 +1,15 @@
+S = supports vectors
+V = vector space se deal krega
+M = relation with a system
+
+better than neural network for handwritten recognition etc..
+one of the most complex algo
+
+
+- euclidean distance from the separating hyperplane
+- is a binary classifier(2 groups + and -)
+- find out best separating hyperplane, and classify data points as + or - according to it
+
+separates into two groups, for more than 2, eg 3.. divides into 2==> 1 alag baaki 2 ek group me
+
+- represented in 2D space, atmost 3D space
